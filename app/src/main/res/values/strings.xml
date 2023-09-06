@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleCalendarBookingApplication</string>
+    <string name="title_activity_calendar_booking">CalendarBookingActivity</string>
+</resources>
